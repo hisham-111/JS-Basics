@@ -1,6 +1,6 @@
 // Define three variables: name, surname and city.
 
-let name = "Hisham" ;
+let Name = "Hisham" ;
 let surname = "Ahdab" ;
 let city = "Tripoli" ;
 
@@ -8,4 +8,4 @@ let city = "Tripoli" ;
 
 // Show these variable in an alert box 
 
-window.alert(  "Name : " + name + "\n" +  "Surname : " + surname + "\n" + "City : " + city ) ;
+window.alert(  "Name : " + Name + "\n" +  "Surname : " + surname + "\n" + "City : " + city ) ;

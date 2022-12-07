@@ -1,4 +1,5 @@
-let name = "Hisham" ;
+//Define variable name
+let Name = "Bob" ;
 
-
-window.alert("Hello " + name + "! How are you today?");
+//Dialog box
+window.alert("Hello " + Name + "! How are you today?");
