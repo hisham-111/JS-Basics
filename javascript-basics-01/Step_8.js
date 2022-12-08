@@ -6,9 +6,8 @@ document.getElementById("validate").onclick = function() {
     if(user > over ){
         alert("you are over 18");
     }
-    if(user == over){
-        alert("your age is legal")
+   
+    else{
+        alert("you are under 18"); 
     }
-    else
-        alert("you are under 18");
 };

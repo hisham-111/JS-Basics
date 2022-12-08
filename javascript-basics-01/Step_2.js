@@ -8,4 +8,4 @@ let city = "Tripoli" ;
 
 // Show these variable in an alert box 
 
-window.alert(  "Name : " + Name + "\n" +  "Surname : " + surname + "\n" + "City : " + city ) ;
+alert(  "Name : " + Name + "\n" +  "Surname : " + surname + "\n" + "City : " + city ) ;

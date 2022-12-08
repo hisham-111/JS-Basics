@@ -1,16 +1,16 @@
 // Define three variables: name, surname and city.
 
-let Name = document.getElementById("name").value = "Hisham";
-let surname = document.getElementById("surname").value = "Ahdab" ;
-let city = document.getElementById("city").value = "Tripoli";
+document.getElementById("validate").onclick = function() {
+   let One = document.getElementById("name").value ;
+   let two = document.getElementById("surname").value ;
+   let three = document.getElementById("city").value ;
+   
+   alert("Name : " + One + "\nSurname : " + two + "\nCity :" + three); 
+} ;
 
 
 
-// Show these variable in an alert box 
 
-
-document.getElementById("validate").value = window.alert(  "Hello  " + Name + "\n" + 
- "How are you today good ?  your surname " + surname + "\n" + "right and you are living in " + city  + "?") ;
 
 
 

@@ -1,5 +1,10 @@
+
 //Define variable name
-let Name = "Bob" ;
+let Name = window.prompt("Enter your Username ") ;
+
 
 //Dialog box
-window.alert("Hello " + Name + "! How are you today?");
+alert("Hello " + Name + "! How are you today?");
+
+
+
