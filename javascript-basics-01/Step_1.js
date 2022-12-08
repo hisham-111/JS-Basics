@@ -1,4 +1,3 @@
-
 // Define a variable, "name"
 let Name = "Hisham" ;
 
