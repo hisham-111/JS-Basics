@@ -5,7 +5,7 @@ document.getElementById("validate").onclick = function() {
    let two = document.getElementById("surname").value ;
    let three = document.getElementById("city").value ;
    
-   alert("Name : " + One + "\nSurname : " + two + "\nCity :" + three); 
+   alert("Name : " + One + "\nSurname : " + two + "\nCity :" + three) ; 
 } ;
 
 
