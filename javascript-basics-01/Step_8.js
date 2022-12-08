@@ -10,4 +10,4 @@ document.getElementById("validate").onclick = function() {
     else{
         alert("you are under 18"); 
     }
-};
+} ; 
