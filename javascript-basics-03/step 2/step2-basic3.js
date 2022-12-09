@@ -6,6 +6,6 @@ visibleHide.addEventListener('click' , (visibleHide) => {
     texte.style = "display: none";
   }
   else {
-    texte.style = 'display:block';}
+    texte.style = 'display:block' ;}
   })
 })
