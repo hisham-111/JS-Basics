@@ -8,4 +8,4 @@ btn.addEventListener("click", (e)=>{
         password.style.border = redBorder;
         confirmation.style.border = redBorder;
     }
-})
+} )
