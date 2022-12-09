@@ -4,7 +4,7 @@ const btn = document.querySelector("button")
 
 btn.addEventListener("click", (e)=>{
     if(password.value != confirmation.value) {
-        let redBorder = "1px solid red";
+        let redBorder = "3px solid red";
         password.style.border = redBorder;
         confirmation.style.border = redBorder;
     }
